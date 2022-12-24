@@ -1,7 +1,6 @@
 # test-repo
 Description of code
 
-I am monika basene
+i am monika basene
 
-Writing somethhing for upstream demo
-
+I am doing upstream demo
